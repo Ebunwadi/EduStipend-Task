@@ -2,10 +2,10 @@
 
 ## How to run this app
 
-Install all the server npm packages
+Install all the server npm packages:
   `npm install --save` or `yarn install --save`
 
-Running the app
+Running the app:
   `npm start` or `yarn start` whose value is `nodemon index.js`
 
 Extra Note
